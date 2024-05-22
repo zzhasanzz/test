@@ -1,0 +1,29 @@
+devops is a culture of being able to deliver solutions faster where your development teams and your operation teams work effectively together.. 	
+
+Devops is a culture that allows Development and Operations team to work together
+
+Developers continuously develop and test codes
+
+There is continuous integration taking place throught the lifecycle
+
+Operations team continuously deploy the codes to the production environment
+
+Allows better collaboration, increased trust and faster stream of software releases
+
+Tools in devops:
+
+
+
+
+
+
+Features of Git:
+
+Tracks History
+Free and Open source
+Supports Non_Linear Development
+Creates Backup
+Scalable
+Supports Collaboration
+Branching is easier
+Distributed Development
