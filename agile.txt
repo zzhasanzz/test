@@ -1,0 +1,135 @@
+Agile modeling: collection of innovative, user centred approaches to system development
+
+Prototyping: info gathering technique useful in seeking user reactions, suggestions, 	     innovations, revision plans, etc.
+
+4 types of Prototyping: 
+-Patched up 
+-non operational
+-first of a series
+-selected features
+
+Patched up
+- has all features but inefficient
+- user can interact w system
+- retrieval and storage of info is inefficient
+
+Non Operational
+-nonworking scale model set up to test certain aspects of the design
+-hard to prototype whole model.. so just test with input and output
+
+First of a Series
+-creating a pilot
+-a full scale prototype is installed in one or two locations first, if success then duplicates are installed at all locations.. basically its a completely operational prototype
+
+Selected Features
+-some but not all essential features are included
+-build in modules and is part of the actual system
+
+Guidelines for Developing Prototyping
+-Work in manageable modules
+-Build the prototype rapidly
+-Modify protoype in successive iterations
+-Stress the user interface
+
+Disadvantages of Prototyping
+-can be difficult to manage prototyping in a large project
+-users and analyst might adapt to the prototype as a working project
+
+Advantages of Prototyping
+-changing the system early in its development
+-opportunity to stop dev on a system thats not working
+-develop a system that more closely addresses users needs and expectations
+
+Rapid Application Development(RAD)
+-oop approach to systems development that includes a method of dev as well as software tools
+
+RAD phases
+-requirement planning 
+-rad design workshop 
+-implementation
+
+
+SDLC
+-identify oppurtunities and objectives
+-determine information requirements(ER-D)
+-analyze systems needs(DFD)
+-design the recommended system
+-develop and document the system
+-test the system
+-introduce the system
+
+
+Values of Agile Modeling
+
+-Communication 
+-Simplicity 
+-Feedback 
+-Courage
+
+Principles of Agile Modeling
+
+-Satisfy customer through delivery of working software
+-Embrace change
+-Continue to deliver functioning software incrementally and frequently
+-Encourage customers and analysts to work together
+-Trust motivated individuals to get job done
+-Promote face to face convo
+-Concentrate on getting software to work
+-encourage continuous sustainable development
+-adopt agility w attention to mindful design
+-provide rapid feedback
+-encourage quality 
+-adopt simplicity
+-review and adjust behavior occasionally
+
+Activities of Agile Modeling: Coding --> Testing --> Listening --> Designing
+
+Resources of Agile Modeling: Time Cost Quality Scope
+
+**4 Core Practices: 
+
+-Short Releases
+-40 hour work week
+-Onsite Customer
+-Pair programming
+
+**Agile Development Process:
+
+-Listen to user stories
+-Draw workflow model
+-create new stories based on model
+-develop prototypes
+-create physical data model using feedback from prototypes and workflow models
+
+
+Scrum
+
+-begin the project with a high level plan that can be changed on the FLY!
+-success of the project most important ... individual success secondary
+-project leader has some influence on the detail
+-system team works within a strict time frame
+
+
+Components of the scrum methodology:
+
+-product backlog
+-spring backlog
+-sprint
+-daily scrum
+-demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

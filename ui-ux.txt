@@ -1,0 +1,109 @@
+A good UI, UX design is essential for providing a positive user experince to user
+
+Essential to offer users a secure yet user friendly experience
+
+User Centered Design?
+
+Focuses on the needs, preferences and behaviours 
+Invlolves understanding user's goals, task and expectations
+UI: look and feel of a product
+UX: overall experience of a user
+
+Visual and Interactive Elements:
+Buttons Controls Menus Forms Graphical-Layout 
+-Efficiently and Effectively Communicate with the System
+
+UI components: Guides Users and helps them interact with the system
+-Layout
+-Typography
+-Menu
+-Images and Graphics
+-Icons
+-Forms 
+
+UX 
+
+-Includes needs, goals and expectations
+-Provides users with efficient and relevant experience 
+-Applies to anything a user can experience 
+
+UX Core Concepts: 
+
+AUDI  
+Adaptability
+-involves creating flexible interfaces
+-recognizes different abilities, devices and environments
+-wider reach, increased accessibility, improved user retention
+
+Usability
+-eases use and efficiency
+-ensures users can accomplish their tasks
+-increases user satisfaction
+
+Desirability 
+-creates emotional connection
+-visual aesthetics, branding and overall appeal
+-differentiates the brand from competitors
+
+Iteration: 
+-emphasizes the iterative and continuous improvement process
+-gathering user feedback
+-conducting usability testing
+-incorporating insights
+-Refines and optimizes the user experience 
+
+
+Importance of UI UX design
+
+-enhances user satisfaction and engagement
+-leads to positive user experience 
+-reduces development costs and time
+-help differentiate products in a competitive market
+
+
+Significance of UX design
+
+-fosters users empathy
+-drives users centered solutions 
+-facilitates iterative prototyping 
+-promotes collaboration
+-enhances overall user experience
+
+UX Strategies: 
+
+user research 
+user personas 
+generating solution 
+wireframing and prototyping
+usability testing 
+iteration
+
+
+
+
+wireframing refers to technique used in the prototyping phase
+-establishing layout, hierarchy and content placement
+-visualizing a product's structure and layout
+-Low fidelity visual representation
+
+
+Key visual Design Priniciples
+-Alignment
+-Hierarchy
+-Contrast 
+-Repitition
+-Proximity 
+-Balance 
+-Space
+
+
+
+
+
+
+
+
+
+
+
+

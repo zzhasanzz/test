@@ -1,0 +1,103 @@
+Project Management Fundamentals
+-Initiation
+-Determining Feasibility
+-Activity Planning and Control
+-Project Scheduling
+-Managing SAD team members
+
+
+How to Pinpoint System Problems and Oppurtunities?
+-Check output 
+-Observe behaviour of employees 
+-Listen to external feedback from Vendors, Customers, Suppliers
+
+Problem Definition
+-problem statement
+-issues
+-objectives
+-requirements
+
+defining objectives
+
+speeding, streamlining and combinining processes
+reducing errors in i/p, reduntant storage & o/p
+improving system & subsystem integration
+
+Technical , Economic and Operational Feasibility
+
+
+Evaluating Vendor Support 
+H/W and S/W support
+Installation and Training Support
+Maintenance Support
+
+Software Alternatives
+
+-created custom software
+-purchased commercial off the shelf software(cots)
+-provided by an application service provider(asp) 
+
+Software Evaluation
+
+-performance effectiveness and efficiency
+-ease of use and flexibility
+-documentation and manufacturer support
+
+
+Activity planning and Control
+
+-Planning : selecting sad team, estimaiting time reqd, scheduling
+-Control: Compare plan, taking appropriate actions, reshchedule activities
+
+
+Tangible Benefits: 
+
+Advantages measurable in dollars
+
+-Increase in the speed of processing
+-Access to information which are inaccessible otherwise
+-Access to information on a more timely basis
+-Good komputer
+-Employee time less to complete specific tasks
+
+
+Intangible Benefits:
+
+Hard to measure 
+
+-Improving the decision making process
+-Enhancing Accuracy
+-Becoming more competitive
+-good business image
+-increasing job satisfaction
+
+
+Break Even Analysis: 
+
+-dis: benefits are assumed to remain the same
+-advantage: can determine how long it'll take for the benefits of the system to pay back the 	costs of developing it
+
+
+
+
+
+Analysis 
+-data gathering 
+-data flow
+-proposal presentation
+
+Design 
+
+Implementation
+
+System Anlyst must manage team members, their activities and their time & resources
+
+
+Project Failures may be prevented by
+-Training 
+-Experience
+-Learning why other projects have failed
+
+
+
+
